@@ -10,10 +10,7 @@ __pycache__/
 *.pkl
 
 # Data 
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
+data/*
 
 # Java/Maven
 target/
@@ -23,4 +20,4 @@ target/
 .DS_Store
 .idea/
 .vscode/
-EOF
+models/finbert/
